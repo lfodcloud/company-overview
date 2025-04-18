@@ -12,7 +12,8 @@ We create lightweight, effective software tools for low-tech entrepreneurs, smal
 - **QuickInvoice** – Simple invoices sent by link
 - **Vendor Linkcard** – Share vendor info in one tap
 - **FeedbackLink** – Lightweight review request system
-
+- 📦 **PayPost** – QR-based payment tool for packages with postage due  
+Scan a code, pay with Cash App or Venmo, and notify the sender instantly.
 ---
 
 ## 💡 Our Philosophy
