@@ -10,3 +10,9 @@ We build for the **offline economy** — where not everyone wants to install app
 - Affordable
 
 Our tools help vendors keep ownership of their business, data, and time.
+
+---
+
+We're here to help — feel free to open a discussion or ask questions.
+
+Live free or die ✊
