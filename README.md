@@ -39,3 +39,10 @@ We build tools for the **offline economy**, making sure people who don't use app
 ---
 
 *Proudly built in New Hampshire.*
+
+## 🔗 Project Navigation
+
+- [Mission Statement](./MISSION.md)
+- [How to Contribute](./CONTRIBUTING.md)
+- [Project Board](https://github.com/lfodc/company-overview/projects/1)
+- [Open Issues](https://github.com/lfodc/company-overview/issues)
