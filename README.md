@@ -1,5 +1,8 @@
 # Live Free or Die Cloud Solutions
-
+![GitHub license](https://img.shields.io/github/license/lfodcloud/company-overview)
+![Last Commit](https://img.shields.io/github/last-commit/lfodcloud/company-overview)
+![GitHub issues](https://img.shields.io/github/issues/lfodcloud/company-overview)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/lfodcloud/company-overview)
 👋 Welcome to Live Free or Die Cloud Solutions!  
 We create lightweight, effective software tools for low-tech entrepreneurs, small businesses, and independent vendors.
 
