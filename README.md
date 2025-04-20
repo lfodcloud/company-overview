@@ -51,3 +51,13 @@ We build tools for the **offline economy**, making sure people who don't use app
 - [Project Board](https://github.com/lfodc/company-overview/projects/1)
 - [Open Issues](https://github.com/lfodc/company-overview/issues)
 - [Product Roadmap](./ROADMAP.md)
+
+## 👥 Contributors
+
+Thanks to everyone helping build this vision:
+
+| Name | Role | Contact |
+|------|------|---------|
+| Chris Arthur | Founder, Lead DevOps & Strategy | chris@livefreeordiecloudsolutions.com |
+| Patrick Arthur | SaaS Developer & Research | patrick@livefreeordiecloudsolutions.com |
+| Rachel Parmer | Business Operations & Sales | rachel@livefreeordieorganics.com |
