@@ -59,5 +59,9 @@ Thanks to everyone helping build this vision:
 | Name | Role | Contact |
 |------|------|---------|
 | Chris Arthur | Founder, Lead DevOps & Strategy | chris@livefreeordiecloudsolutions.com |
-| Patrick Arthur | SaaS Developer & Research | patrick@livefreeordiecloudsolutions.com |
+| Patrick Arthur | Co-Founder, Technical Lead | patrick@livefreeordiecloudsolutions.com |
 | Rachel Parmer | Business Operations & Sales | rachel@livefreeordieorganics.com |
+
+## 🎥 Product Demo
+
+Demo video coming soon! In the meantime, check out the [Project Roadmap](#project-roadmap) and [Open Issues](#open-issues) to learn what we’re building.
