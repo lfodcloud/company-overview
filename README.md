@@ -1,17 +1,21 @@
 # Live Free or Die Cloud Solutions
-![GitHub license](https://img.shields.io/github/license/lfodcloud/company-overview)
-![Last Commit](https://img.shields.io/github/last-commit/lfodcloud/company-overview)
-![GitHub issues](https://img.shields.io/github/issues/lfodcloud/company-overview)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/lfodcloud/company-overview)
-![Deployment](https://img.shields.io/badge/deployment-pending-lightgrey)
-![Contributors](https://img.shields.io/github/contributors/lfodcloud/company-overview)
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/lfodcloud?style=social)](https://twitter.com/lfodcloud)
-👋 Welcome to Live Free or Die Cloud Solutions!  
-We create lightweight, effective software tools for low-tech entrepreneurs, small businesses, and independent vendors.
+
+🛠️ Simple Tools for Serious Hustlers  
+*Empowering low-tech entrepreneurs and vendors to run smarter businesses—without apps or logins.*
+
+[![](https://img.shields.io/github/license/lfodcloud/company-overview)](./LICENSE.md)
+[![](https://img.shields.io/github/last-commit/lfodcloud/company-overview)](https://github.com/lfodcloud/company-overview/commits)
+[![](https://img.shields.io/github/issues/lfodcloud/company-overview)](https://github.com/lfodcloud/company-overview/issues)
+[![](https://img.shields.io/github/contributors/lfodcloud/company-overview)](https://github.com/lfodcloud/company-overview/graphs/contributors)
+[![](https://img.shields.io/github/workflow/status/lfodcloud/company-overview/deployment)](https://github.com/lfodcloud/company-overview/actions)
+[![](https://img.shields.io/badge/follow-@lfodcloud-1da1f2?style=social&logo=twitter)](https://twitter.com/lfodcloud)
 
 ---
 
+We create lightweight, effective tools for low-tech entrepreneurs, small businesses, and independent vendors.  
+No apps. No logins. Just business.
+
+---
 ## 🚀 What We’re Building
 
 - **SchedLink Mini** – Text-based client scheduling
