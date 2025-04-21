@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/contributors/lfodcloud/company-overview)](https://github.com/lfodcloud/company-overview/graphs/contributors)
 [![](https://img.shields.io/github/workflow/status/lfodcloud/company-overview/deployment)](https://github.com/lfodcloud/company-overview/actions)
 [![](https://img.shields.io/badge/follow-@lfodcloud-1da1f2?style=social&logo=twitter)](https://twitter.com/lfodcloud)
-
+[![Discussions](https://img.shields.io/badge/Discuss%20with%20us-GitHub%20Discussions-blue)](https://github.com/lfodcloud/company-overview/discussions)
 ---
 
 We create lightweight, effective tools for low-tech entrepreneurs, small businesses, and independent vendors.  
